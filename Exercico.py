@@ -1,0 +1,1 @@
+N1 =int(input("Digite o valor em metros"))
